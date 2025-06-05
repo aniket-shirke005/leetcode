@@ -1,8 +1,8 @@
 # 🚀 LeetCode Top 500 Solutions
 
 ![LeetCode](https://img.shields.io/badge/LeetCode-Top%20500-orange)
-![Languages](https://img.shields.io/badge/languages-JS%20%7C%20TS%20%7C%20PY-blue)
-![Progress](https://img.shields.io/badge/solved-X%2F500-brightgreen)
+![Languages](https://img.shields.io/badge/languages-JS%20%7C%20TS-blue)
+![Progress](https://img.shields.io/badge/solved-1%2F500-brightgreen)
 
 Welcome to my curated collection of solutions for LeetCode's Top 500 problems! This repository is designed to help me (and others) stay consistent, improve problem-solving skills, and track progress over time.
 
@@ -16,7 +16,7 @@ Welcome to my curated collection of solutions for LeetCode's Top 500 problems! T
 
 | # | Title | Solution(s) | Topic Tags | Difficulty |
 |--:|:------|:------------|:-----------|:-----------|
-| 1 | [Two Sum](problems/0001-two-sum) | JS, PY | Arrays, HashMap | Easy |
+| 1 | [Two Sum](problems/0001-two-sum) | JS | Arrays, HashMap | Easy |
 | 2 | [Add Two Numbers](problems/0002-add-two-numbers) | JS | Linked List | Medium |
 
 _(Auto-generated or manually updated)_
@@ -28,8 +28,8 @@ _(Auto-generated or manually updated)_
 
 ## 🧩 Progress
 
-- ✅ **Solved:** `X/500` (updated weekly)
-- 🛠️ **Languages used:** JavaScript, TypeScript, Python
+- ✅ **Solved:** `1/500` (updated weekly)
+- 🛠️ **Languages used:** JavaScript, TypeScript
 - ⏳ **Status:** Actively adding new solutions and improvements
 
 ## 🤝 Contributing

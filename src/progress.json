@@ -1,0 +1,14 @@
+{
+  "solved": 1,
+  "total": 500,
+  "problems": [
+    {
+      "id": 1,
+      "title": "Contains Duplicate",
+      "path": "src/problems/001-duplicate-number/",
+      "tags": ["arrays", "hashset"],
+      "difficulty": "Easy",
+      "solved": true
+    }
+  ]
+}
