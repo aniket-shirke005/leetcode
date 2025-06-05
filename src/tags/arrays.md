@@ -1,5 +1,11 @@
 # Arrays
 
-Problems involving array data structures and techniques.
+This tag includes problems that primarily involve array data structures and related techniques.
 
-- [Contains Duplicate](../problems/001-duplicate-number/README.md)
+## Problems
+
+- [Contains Duplicate](../problems/001-duplicate-number/README.md) — Easy
+
+---
+
+Add more array-related problems here as you solve them!

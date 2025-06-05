@@ -16,15 +16,14 @@ Welcome to my curated collection of solutions for LeetCode's Top 500 problems! T
 
 | # | Title | Solution(s) | Topic Tags | Difficulty |
 |--:|:------|:------------|:-----------|:-----------|
-| 1 | [Two Sum](problems/0001-two-sum) | JS | Arrays, HashMap | Easy |
-| 2 | [Add Two Numbers](problems/0002-add-two-numbers) | JS | Linked List | Medium |
+| 1 | [Contains Duplicate](src/problems/001-duplicate-number) | JS, TS | Arrays, HashMap | Easy |
 
 _(Auto-generated or manually updated)_
 
 ## 🗂️ Navigation
 
 - **Problems:** Each problem has its own folder under `src/problems/` with a README and solution files.
-- **Tags:** Browse by topic in the [`tags/`](tags/) directory (e.g., [Dynamic Programming](tags/dp.md), [Graph](tags/graphs.md), [Binary Search](tags/binary-search.md)).
+- **Tags:** Browse by topic in the [`tags/`](tags/) directory (e.g., [Arrays](tags/arrays.md)).
 
 ## 🧩 Progress
 
