@@ -5,6 +5,7 @@ This tag includes problems that primarily involve array data structures and rela
 ## Problems
 
 - [Contains Duplicate](../problems/001-duplicate-number/README.md) — Easy
+- [Valid Anagram](../problems/002-valid-anagram/README.md) — Easy
 
 ---
 

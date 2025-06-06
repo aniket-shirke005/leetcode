@@ -1,5 +1,5 @@
 {
-  "solved": 1,
+  "solved": 2,
   "total": 500,
   "problems": [
     {
@@ -7,6 +7,14 @@
       "title": "Contains Duplicate",
       "path": "src/problems/001-duplicate-number/",
       "tags": ["arrays", "hashset"],
+      "difficulty": "Easy",
+      "solved": true
+    },
+    {
+      "id": 2,
+      "title": "Valid Anagram",
+      "path": "src/problems/002-valid-anagram/",
+      "tags": ["arrays", "hashmap"],
       "difficulty": "Easy",
       "solved": true
     }
