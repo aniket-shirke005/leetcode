@@ -14,10 +14,10 @@ Welcome to my curated collection of solutions for LeetCode's Top 500 problems! T
 
 ## 🔢 Problem Index
 
-| # | Title | Solution(s) | Topic Tags | Difficulty |
-|--:|:------|:------------|:-----------|:-----------|
-| 1 | [Contains Duplicate](src/problems/001-duplicate-number) | JS, TS | Arrays, HashMap | Easy |
-| 2 | [Valid Anagram](src/problems/002-valid-anagram) | JS, TS | Arrays, HashMap | Easy |
+| # | Title | Topic Tags | Difficulty |
+|--:|:------|:------------|:-----------|
+| 1 | [Contains Duplicate](src/problems/001-duplicate-number) | Arrays, HashMap | Easy |
+| 2 | [Valid Anagram](src/problems/002-valid-anagram) | Arrays, HashMap | Easy |
 
 _(Auto-generated or manually updated)_
 
