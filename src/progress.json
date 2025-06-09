@@ -1,5 +1,5 @@
 {
-  "solved": 4,
+  "solved": 5,
   "total": 500,
   "problems": [
     {
@@ -31,6 +31,14 @@
       "title": "Group Anagrams",
       "path": "src/problems/004-group-anagrams/",
       "tags": ["arrays", "hashmap"],
+      "difficulty": "Medium",
+      "solved": true
+    },
+    {
+      "id": 6,
+      "title": "Top K Frequent Elements",
+      "path": "src/problems/006-top-k-frequent-elements/",
+      "tags": ["arrays", "hashmap", "bucket", "frequency"],
       "difficulty": "Medium",
       "solved": true
     }
