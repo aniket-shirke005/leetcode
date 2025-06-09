@@ -3,15 +3,11 @@ import typescriptLogo from './typescript.svg'
 import viteLogo from '/vite.svg'
 import { setupCounter } from './counter.ts'
 import {containsDuplicate,testCases} from './problems/001-duplicate-number/solution.ts';
+import { twoSum,runTestCases } from './problems/003-two-sum/solution.ts';
 
 
 
-// Run test cases
-for (const [input, expected] of testCases) {
-    const result = containsDuplicate(input);
-    console.log(`containsDuplicate(${JSON.stringify(input)}) = ${result}; Expected: ${expected}`);
-}
-
+runTestCases();
 
 document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
   <div>
