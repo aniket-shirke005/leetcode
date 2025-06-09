@@ -1,5 +1,5 @@
 {
-  "solved": 3,
+  "solved": 4,
   "total": 500,
   "problems": [
     {
@@ -24,6 +24,14 @@
       "path": "src/problems/003-two-sum/",
       "tags": ["arrays", "hashmap"],
       "difficulty": "Easy",
+      "solved": true
+    },
+    {
+      "id": 4,
+      "title": "Group Anagrams",
+      "path": "src/problems/004-group-anagrams/",
+      "tags": ["arrays", "hashmap"],
+      "difficulty": "Medium",
       "solved": true
     }
   ]

@@ -2,7 +2,7 @@
 
 ![LeetCode](https://img.shields.io/badge/LeetCode-Top%20500-orange)
 ![Languages](https://img.shields.io/badge/languages-JS%20%7C%20TS-blue)
-![Progress](https://img.shields.io/badge/solved-3%2F500-brightgreen)
+![Progress](https://img.shields.io/badge/solved-4%2F500-brightgreen)
 
 Welcome to my curated collection of solutions for LeetCode's Top 500 problems! This repository is designed to help me (and others) stay consistent, improve problem-solving skills, and track progress over time.
 
@@ -19,6 +19,7 @@ Welcome to my curated collection of solutions for LeetCode's Top 500 problems! T
 | 1 | [Contains Duplicate](src/problems/001-duplicate-number) | Arrays, HashMap | Easy |
 | 2 | [Valid Anagram](src/problems/002-valid-anagram) | Arrays, HashMap | Easy |
 | 3 | [Two Sum](src/problems/003-two-sum) | Arrays, HashMap | Easy |
+| 4 | [Group Anagrams](src/problems/004-group-anagrams) | Arrays, HashMap | Medium |
 
 _(Auto-generated or manually updated)_
 
@@ -29,7 +30,7 @@ _(Auto-generated or manually updated)_
 
 ## 🧩 Progress
 
-- ✅ **Solved:** `3/500` (updated weekly)
+- ✅ **Solved:** `4/500` (updated weekly)
 - 🛠️ **Languages used:** JavaScript, TypeScript
 - ⏳ **Status:** Actively adding new solutions and improvements
 
