@@ -21,6 +21,7 @@ Welcome to my curated collection of solutions for LeetCode's Top 500 problems! T
 | 3 | [Two Sum](src/problems/003-two-sum) | Arrays, HashMap | Easy |
 | 4 | [Group Anagrams](src/problems/004-group-anagrams) | Arrays, HashMap | Medium |
 | 5 | [Top K Frequent Elements](src/problems/005-top-k-frequent-elements) | Arrays, HashMap, Heap | Medium |
+| 6 | [Encode and Decode Strings](src/problems/007-string-encode-and-decode) | Arrays, String, Design | Medium |
 
 _(Auto-generated or manually updated)_
 

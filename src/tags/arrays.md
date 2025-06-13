@@ -9,6 +9,7 @@ This tag includes problems that primarily involve array data structures and rela
 - [Two Sum](../problems/003-two-sum/README.md) — Easy
 - [Group Anagrams](../problems/004-group-anagrams/README.md) — Medium
 - [Top K Frequent Elements](../problems/006-top-k-frequent-elements/README.md) — Medium
+- [Encode and Decode Strings](../problems/007-string-encode-and-decode/README.md) — Medium
 
 ---
 

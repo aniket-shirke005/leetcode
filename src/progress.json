@@ -1,5 +1,5 @@
 {
-  "solved": 5,
+  "solved": 6,
   "total": 500,
   "problems": [
     {
@@ -39,6 +39,14 @@
       "title": "Top K Frequent Elements",
       "path": "src/problems/006-top-k-frequent-elements/",
       "tags": ["arrays", "hashmap", "bucket", "frequency"],
+      "difficulty": "Medium",
+      "solved": true
+    },
+    {
+      "id": 7,
+      "title": "Encode and Decode Strings",
+      "path": "src/problems/007-string-encode-and-decode/",
+      "tags": ["arrays", "string", "design"],
       "difficulty": "Medium",
       "solved": true
     }
